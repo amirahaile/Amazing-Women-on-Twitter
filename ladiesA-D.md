@@ -31,7 +31,7 @@ I met Amanda in a makeup/tech related Slack. She’s super badass and funny!
 She organizes a conference with the mission of being diverse. She’s super smart!
 
 ## Amira Hailemariam  
-[@amirahaile](https://twitter.com/amirahaile)
+[@amirahaile](https://twitter.com/amirahaile)  
 Amira is amazing for volunteering to transfer this list to GitHub. I can't thank her enough, and her kindness and effort to contribute is so inspiring. Thank you, Amira. I wish more people were like you <3
 
 ## Amy Schweiss
