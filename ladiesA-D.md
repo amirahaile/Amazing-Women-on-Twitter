@@ -28,7 +28,7 @@ I met Amanda in a makeup/tech related Slack. She’s super badass and funny!
 
 ## Amber Conville
 [@crebma](https://twitter.com/crebma)  
-She organizes a conference with the mission of being diverse. She’s super smart!
+She organizes [self.conference](http://selfconference.org/) with the mission of being diverse. She’s super smart!
 
 ## Amira Hailemariam  
 [@amirahaile](https://twitter.com/amirahaile)  
@@ -76,7 +76,7 @@ I met her in Austin and then she went on to be a super badass in San Francisco. 
 
 ## Bitch Media
 [@bitchmedia](https://twitter.com/bitchmedia)  
-I love Bitch. Their magazine, their podcasts, everything. Get into their content now.
+I love [Bitch](https://www.bitchmedia.org/). Their magazine, their podcasts, everything. Get into their content now.
 
 ## Brenna Heaps
 [@brennaheaps](https://twitter.com/breannaheaps)   
@@ -92,7 +92,7 @@ Every time I’ve ever talked to Bushra in person, her passion can be felt immed
 
 ## Call Your Girlfriend
 [@callyrgf](https://twitter.com/callyrgf)  
-Okay, not entirely a Twitter account. But I love this podcast so, so much. Two gal pals discussing feminist issues and pop culture. It’s perfect.
+Okay, not entirely a Twitter account. But I love this [podcast](http://callyourgirlfriend.com/) so, so much. Two gal pals discussing feminist issues and pop culture. It’s perfect.
 
 ## Caren Litherland
 [@litherland](https://twitter.com/litherland)  
@@ -124,7 +124,7 @@ A talented designer that I used to work with. She has such personality and talen
 
 ## Danielle Bardgette
 [@danibardgette](https://twitter.com/danibardgette)  
-I met Danielle through several Girl Develop It courses that she was TAing for. She shares important tech-related content and I love that she’s involved in GDI.
+I met Danielle through several [Girl Develop It](http://www.girldevelopit.com) courses that she was TAing for. She shares important tech-related content and I love that she’s involved in GDI.
 
 ## Dee Gill
 [@mdeegill](https://twitter.com/mdeegill)   
@@ -132,7 +132,7 @@ OMG Dee is such an inspiration. She got a job as an accountant and then decided 
 
 ## Dee Kapila
 [@deekapila](https://twitter.com/deekapila)  
-Dee works for Skillcrush which helps teach women design and development. She’s so passionate about getting women into this industry and she always posts great articles.
+Dee works for [Skillcrush](https://skillcrush.com) which helps teach women design and development. She’s so passionate about getting women into this industry and she always posts great articles.
 
 ## Divya Sasidharan
 [@shortdiv](https://twitter.com/shortdiv)   
