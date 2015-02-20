@@ -1,5 +1,5 @@
 # Amazing Women on Twitter
-A growing list of amazing women to follow on Twitter. Started by Katie Kovalcin.  
+A growing list of amazing women to follow on Twitter. Started by Katie Kovalcin ([@katiekovalcin](https://twitter.com/katiekovalcin)).  
 View the original [Part 1](http://kovalc.in/2015/02/17/women-pt1.html) // [Part 2](http://kovalc.in/2015/02/18/women-pt2.html) // [Part 3](http://kovalc.in/2015/02/19/women-pt3.html) on [Katie's website](http://kovalc.in/).
 
 ### A Note from Katie
