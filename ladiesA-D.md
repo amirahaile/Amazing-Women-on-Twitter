@@ -62,6 +62,10 @@ Oh, god. I love her blog. I’ve been following her for years, but I can’t get
 [@ari4nne](https://twitter.com/ari4nne)  
 Ari is incredible. I’ve had the pleasure of seeing her many times in Austin and also speaking at one of her conferences. She’s one of my heros in this industry.
 
+##Ash Huang
+[@ashsmash](https://twitter.com/ashsmash)  
+Ash Huang is an independent designer and storyteller (previously at Pinterest and Twitter) and probably one of the coolest people on the planet.
+
 ## Ashley Root
 [@eyescreamqueen](https://twitter.com/eyescreamqueen)  
 I know her through mutual friends, and I just love her style and voice so much.
