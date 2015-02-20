@@ -4,3 +4,6 @@ View the original [Part 1](http://kovalc.in/2015/02/17/women-pt1.html) // [Part 
 
 ### A Note from Katie
 Since this is unfortunately only the small segment of women that I have happened to follow and enjoy, I would love to open this up to an open source master list that anyone can add someone to (and include a reason why you like following them!).
+
+#### A Note from Me
+When contributing, please remember to include a [line break](http://daringfireball.net/projects/markdown/syntax#p) (at least two spaces and a hard return) after the Twitter handle. Thank you!
