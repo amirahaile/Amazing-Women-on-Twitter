@@ -6,6 +6,11 @@ I had the pleasure of working with Eileen when she consulted several projects I 
 [@followellie](https://twitter.com/followellie)  
 I met Ellie when she reached out to me about speaking at Future Insights Live. She’s so nice and helpful. She posts a bunch of great articles that normally don’t appear in my timeline.
 
+##Erin Kissane
+[@kissane](https://twitter.com/kissane)  
+Erin is a writer, content strategist, and the editor of journalism-code community website Source. She's consistently empathetic, insightful, and witty.
+
+
 ## Elyse Holladay
 [@elyseholladay](https://twitter.com/elyseholladay)  
 I know Elyse from Austin and now I can’t help but see her on lots of amazing speaker lineups. She’s passionate about Sass and feminism!
