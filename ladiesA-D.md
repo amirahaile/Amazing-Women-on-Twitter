@@ -3,7 +3,7 @@
 I used to work with Abby and her empathy is beyond measure. She is a free spirit and I love seeing what she’s up to.
 
 ## Alice Lee
-[@byalicelee](https://twitter.com/byalicelee)
+[@byalicelee](https://twitter.com/byalicelee)  
 Alice Lee is a hard-to-quanitify designer and illustrator who has worked with Dropbox, Foursquare, Path, and more. She puts tons of heart and life into her work and never hesitates to help beginners.
 
 ## Alicia Sedlock
