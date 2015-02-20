@@ -15,11 +15,11 @@ Her tweets are so honest, raw, and her rants are impeccable. I’m sure I’ve R
 I only recently met Martha, through [Garann Means](https://twitter.com/garannm) (also on this list!). I want to be her friend IRL, I love her tweets and she’s such a good developer. I hope to collaborate with her one day!
 
 ## Meagan Fisher
-[@owltastic](https://twitter.com/owltastic)
+[@owltastic](https://twitter.com/owltastic)  
 Another badass lady designer on this list. She’s super relatable.
 
 ## Mina Markham
-[@minamarkham](https://twitter.com/minamarkham)
+[@minamarkham](https://twitter.com/minamarkham)  
 Such a badass front end developer, I love her tech tweets and I also appreciate hearing her perspective as a woman of color in this industry. She deserves all the support!
 
 ## Melanie Richards
@@ -35,7 +35,7 @@ I work with Melissa and she is a super badass Project Manager! She’s so helpfu
 I love her band, Perfect Pussy, a lot. I’ve seen them play several times, and I can never stop staring at how captivating Meredith is. In addition to her awesome band, she writes AMAZING feminist articles for lots of publications. You go, girl.
 
 ## Miriam Nadler
-[@antimytheme](https://twitter.com/antimytheme)
+[@antimytheme](https://twitter.com/antimytheme)  
 Miriam is a trans woman working on front end development at Vox Media. She's always sharing awesome Sass/CSS/front-end explorations and [gifs of excellent movies](https://twitter.com/antimytheme/status/568781870780952577).
 
 ## Mo Kudeki
@@ -79,7 +79,7 @@ One of my favorite publications to follow for feminist essays, especially since 
 Sam is everywhere and knows everyone, her tweets are always full of useful information that she posts for students but anyone can learn from!
 
 ## Samantha Warren
-[@samanthatoy](https://twitter.com/samanthatoy) 
+[@samanthatoy](https://twitter.com/samanthatoy)   
 I love Samantha’s way of thinking and I love how she pushes boundaries in our industry. She’s also really relatable and funny and I love her tweets.
 
 ## Sara Chipps
@@ -95,7 +95,7 @@ SARA WB IS AMAZING. Everything she writes, shares, tweets, does is so true that 
 I love her so much. She is probably my favorite account on this entire list. Follow her right now. She’s so passionate, smart, funny, and brave. She starts so many honest dialogues about important issues no one else talks about. AND SHE’S ONLY 20!
 
 ## Sharlene King
-[@typodactyl](https://twitter.com/typodactyl)
+[@typodactyl](https://twitter.com/typodactyl)  
 A healthy mix of tweets about feminism, animals, and food. Sharlene's stream is consistently great. 
 
 ## Sloane Crosley
