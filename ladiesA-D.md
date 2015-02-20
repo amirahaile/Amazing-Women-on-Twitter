@@ -2,6 +2,10 @@
 [@abbyfretz](https://twitter.com/abbyfretz)  
 I used to work with Abby and her empathy is beyond measure. She is a free spirit and I love seeing what she’s up to.
 
+## Alice Lee
+[@byalicelee](https://twitter.com/byalicelee)
+Alice Lee is a hard-to-quanitify designer and illustrator who has worked with Dropbox, Foursquare, Path, and more. She puts tons of heart and life into her work and never hesitates to help beginners.
+
 ## Alicia Sedlock
 [@aliciability](https://twitter.com/aliciability)  
 I met her at CSS Dev Conf last year where we both presented. She is kicking ass at development and I love all of her social issues she brings up regarding tech. She also focuses on accessibility, which we all could use a little more insight on.
