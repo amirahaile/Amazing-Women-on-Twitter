@@ -34,6 +34,10 @@ I work with Melissa and she is a super badass Project Manager! She’s so helpfu
 [@gravesmeredith](https://twitter.com/gravesmeredith)  
 I love her band, Perfect Pussy, a lot. I’ve seen them play several times, and I can never stop staring at how captivating Meredith is. In addition to her awesome band, she writes AMAZING feminist articles for lots of publications. You go, girl.
 
+## Miriam Nadler
+[@antimytheme](https://twitter.com/antimytheme)
+Miriam is a trans woman working on front end development at Vox Media. She's always sharing awesome Sass/CSS/front-end explorations and [gifs of excellent movies](https://twitter.com/antimytheme/status/568781870780952577).
+
 ## Mo Kudeki
 [@kudeki](https://twitter.com/kudeki)  
 She’s hilarious and tweets great feminist content.
@@ -89,6 +93,10 @@ SARA WB IS AMAZING. Everything she writes, shares, tweets, does is so true that 
 ## Shakira
 [@sailornegro](https://twitter.com/sailornegro)   
 I love her so much. She is probably my favorite account on this entire list. Follow her right now. She’s so passionate, smart, funny, and brave. She starts so many honest dialogues about important issues no one else talks about. AND SHE’S ONLY 20!
+
+## Sharlene King
+[@typodactyl](https://twitter.com/typodactyl)
+A healthy mix of tweets about feminism, animals, and food. Sharlene's stream is consistently great. 
 
 ## Sloane Crosley
 [@askanyone](https://twitter.com/askanyone)  

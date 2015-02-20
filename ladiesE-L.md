@@ -1,3 +1,7 @@
+## Eden Rohatensky
+[@edenthecat](https://twitter.com/edenthecat)
+Consistently hilarious and enviously talented, Eden is a musician and a developer for Vox media. Also, she's Canadian, so she has manners.
+
 ## Eileen Webb
 [@webmeadow](https://twitter.com/webmeadow)  
 I had the pleasure of working with Eileen when she consulted several projects I was on. She is so confident and I love when I get to talk to her. Her interests are unique and I love reading her tweets about the wildlife she encounters.
@@ -18,6 +22,10 @@ I know Elyse from Austin and now I can’t help but see her on lots of amazing s
 ## Emily Gray
 [@emilykggray](https://twitter.com/emilykggray)  
 I work with Emily and have been lucky enough to experience her amazing content strategy. She’s so good at what she does and gives honest feedback.
+
+## Emily Haasch
+[@emhaasch](https://twitter.com/emhaasch)
+Emily is a designer producing some really interesting, funny, and thought-provoking work, as well as some top-notch tweets.
 
 ## Emily Webb
 [@emilyawebb](https://twitter.com/emilyawebb)  
@@ -51,6 +59,14 @@ Like many ladies on this list, I met her in a makeup/tech Slack. She’s talente
 [@heavenrants](https://twitter.com/heavenrants)  
 Her perspective as a black woman is SO. IMPORTANT. I can say with utmost certainty that following her has made me a more empathetic person.
 
+## Helen Holmes
+[@helenvholmes](https://twitter.com/helenvholmes)
+As well as Designing at Capital One, Helen is doing a lot of cool stuff using and learning Vim, development in XCode, and a bunch of other dev stuff. Another funny, kind, awesome woman on Twitter.
+
+## Jackie Balzer
+[@jackiebackwards](https://twitter.com/jackiebackwards)
+Jackie ts Behance's front-end lead, and she really knows her stuff. Friendly and funny with a penchant for tweeting about web development and its perils.
+
 ## Jaimee Newberry
 [@jaimeejaimee](https://twitter.com/jaimeejaimee)  
 I love how often she tweets and the resources she does. She’s everywhere!
@@ -70,6 +86,10 @@ I love what she does for women in tech, her passion shows through her tweets.
 ## Jenn Lukas
 [@jennlukas](https://twitter.com/jennlukas)   
 Jenn. Is. Amazing. I wish we had a longer crossover at our last job, because I never got to know her personally but her tweets make me happy. She’s so smart and I love her style.
+
+## Jenn Turner
+[@renrutnnej](https://twitter.com/renrutnnej)
+Jenn Turner is sweet, strong, and extremely funny. Designer/developer at &yet, she tweets about working on the web and life with her daughter (who also sounds awesome.)
 
 ## Jennifer Robbins
 [@jenville](https://twitter.com/jenville)  
@@ -91,6 +111,10 @@ I actually just started following her but she is such an inspiration as she is o
 [@jessicard](https://twitter.com/jessicard)  
 I met Jessicard in a makeup/tech related Slack. We have lots of common interests so I always love to see what she posts.
 
+## Jina Bolton
+[@jina](https://twitter.com/jina)
+Jina is a Designer/Developer over at Salesforce, but you probably know her best for all her amazing and hard work in the Sass community. She tweets funny stuff and a lot about Sass.
+
 ## Jody Thornburg
 [@jodytburg](https://twitter.com/jodytburg)  
 Amazing writer and editor that I currently work with. She’s so sweet and organized.
@@ -110,6 +134,10 @@ I used to work with Julie, and she’s an incredible mom and super hard worker. 
 ## Karen McGrane
 [@karenmcgrane](https://twitter.com/karenmcgrane)  
 I want to bow down to Karen. She’s one of the women I admire most in the tech industry, and she has made me feel like it is safe to discuss important topics on Twitter. Thank you, Karen.
+
+## Karolina Szczur
+[@fox](https://twitter.com/fox)
+Karolina is a designer and developer, but her passion really shines through her work in equality and diversity advocacy. She's determined, funny, and travels to some beautiful places (great Instagram shots!)
 
 ## Kasey Bonifacio
 [@_kaseybon](https://twitter.com/_kaseybon)  
@@ -150,6 +178,10 @@ I used to work with Leanne and she was my first female role model in a professio
 ## Lil Chen
 [@_lilchen](https://twitter.com/_lilchen)  
 I love her for being a competitive Super Smash Brothers player (I love SSBM)! I’ve seen her at conferences, and we’ve talked a lot on Twitter. Her tweets are so great, and her fashion is impeccable.
+
+## Linda Eliasen
+[@littlenono](https://twitter.com/littlenono)
+Linda is a Designer at Dropbox. She's kind, strong, and funny as hell. She tweets about design, lettering, being a lady in tech, and butt/fart jokes.
 
 ## Lisa Maria
 [@redsesame](https://twitter.com/redsesame)  
