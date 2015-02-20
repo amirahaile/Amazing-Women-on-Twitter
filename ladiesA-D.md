@@ -35,7 +35,7 @@ I met Amanda in a makeup/tech related Slack. She’s super badass and funny!
 She organizes [self.conference](http://selfconference.org/) with the mission of being diverse. She’s super smart!
 
 ## Amber Gordon
-[@missambear](https://twitter.com/missambear)
+[@missambear](https://twitter.com/missambear)  
 Previously at Tumblr, Amber Gordon founded Femsplain, a media outlet helping give voices to women and working to change how women are discussed and viewed in the media. She's also hilarious.
 
 ## Amira Hailemariam  
@@ -123,19 +123,19 @@ Cecy organizes a bunch of stuff in Austin, and is always on top of it. I love wh
 I love her blog, and her tweets about makeup.
 
 ## Christy Carroll
-[@christy_carroll](https://twitter.com/christy_carroll)
+[@christy_carroll](https://twitter.com/christy_carroll)  
 I used to work with Christy and her talent is beyond measure. She also is in a band and does woodworking and I really can’t keep up with her badassery. She’s amazing.
 
 ## Claudina Sarahe
-[@itsmisscs](https://twitter.com/itsmisscs)
+[@itsmisscs](https://twitter.com/itsmisscs)  
 Claudina is one of the most humble, passionate, and fiery people I ([@_dte](https://twitter.com/_dte)) have ever met. She tweets about tech, travel, and social justice.
 
 ## Corinne Warnshuis
-[@corinnepw](https://twitter.com/corinnepw)
+[@corinnepw](https://twitter.com/corinnepw)  
 Corinne is an Executive Director at Girl Develop It, a nonprofit helping get more women into STEM industries. She talks about feminism, tech, and design. All good stuff.
 
 ## Crissle
-[@crissles](https://twitter.com/crissles)
+[@crissles](https://twitter.com/crissles)  
 I listen to her podcast, the Read, every week. She’s hilarious and honest and her tweets reflect that. Listen to her podcast.
 
 ## Dana Pavlichko
@@ -155,7 +155,7 @@ OMG Dee is such an inspiration. She got a job as an accountant and then decided 
 Dee works for [Skillcrush](https://skillcrush.com) which helps teach women design and development. She’s so passionate about getting women into this industry and she always posts great articles.
 
 ## Dianna McDougall
-[@DiannaMcD](https://twitter.com/DiannaMcD)
+[@DiannaMcD](https://twitter.com/DiannaMcD)  
 Dianna does a lot of amazing stuff on Twitter. She tweets about her work (at New York Times Magazine, which is wonderful), she tweets about feminism (which is awesome), and she tweets gifs (which is obv. the best part about this.)
 
 ## Divya Sasidharan
