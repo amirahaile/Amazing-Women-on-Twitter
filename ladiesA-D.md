@@ -114,6 +114,10 @@ I met Caren when she was editing my ALA article. I love her insight, and she’s
 [@cfarm](https://twitter.com/cfarm)  
 I absolutely love how much Cat cares about diversity and development. I used to work with her and she does so much, I don’t know how to keep up. Her tweets are very important, she’s so smart.
 
+## Cat Noone
+[@imcatnoone](https://twitter.com/imcatnoone)  
+Cat's runs, builds, and designs [Liberio](https://liber.io/), a site all about making ePublish easier. She's also helped create [Typoguide](http://typogui.de/), my favorite pocket guide to typography.
+
 ## Cecy Correa
 [@cecycorrea](https://twitter.com/cecycorrea)   
 Cecy organizes a bunch of stuff in Austin, and is always on top of it. I love when I get to talk to her, and she’s always willing to offer a helping hand. Her tweets have lots of great content.

@@ -126,6 +126,10 @@ I love her. I love her witchy vibe a lot but what I love even more is her import
 [@tessaharmon](https://twitter.com/tessaharmon)  
 I’ve had the pleasure of talking to Tessa online and also seeing her present. She’s a super badass that always has perfect makeup. She’s a super helpful and sweet woman who has important things to say.
 
+## Tracy Chou
+[@triketora](https://twitter.com/triketora)
+Tracy's an engineer at Pinterest really involved in trying to actively make the engineering team there more diverse. She also is the woman behind [Women in Software Engineering](https://github.com/triketora/women-in-software-eng/), a spreadsheet of the women-to-men ratios at a bunch of really big companies.
+
 ## The Toast
 [@thetoast](https://twitter.com/thetoast)  
 Great feminist articles, love them.
