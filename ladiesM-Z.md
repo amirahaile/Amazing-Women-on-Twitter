@@ -60,7 +60,7 @@ I work with Nikki, she’s awesome!
 
 ## Pamela Fox
 [@pamelafox](https://twitter.com/pamelafox)  
-Does really cool work on programming curriculum at Kahn Academy. Funny and engergetic personality both on and off twitter.
+Does really cool work on programming curriculum at Kahn Academy. Funny and engergetic personality both on and off Twitter.
 
 ## Pearl Chen
 [@PearlChen](https://twitter.com/PearlChen)
