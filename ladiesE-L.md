@@ -177,7 +177,7 @@ Omg she’s so fucking funny.
 She loves to tweet about code and donuts, what more do you need?
 
 ## Kelsey Gilmore-Innis
-[@kelseyinnis](https://twitter.com/kelseyinnis)
+[@kelseyinnis](https://twitter.com/kelseyinnis)  
 Totally badass babe not afraid to speak here mind. Excellent tweets about feminism and tech, and funny stuff too.
 
 ## Krystyn Heide
