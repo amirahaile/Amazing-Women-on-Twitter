@@ -50,11 +50,23 @@ I’ve known Molly since high school and her twitter really owns the weird twitt
 [@nicoleslaw](https://twitter.com/nicoleslaw)  
 I love her writing, and her design, and everything! Her social tweets are important, and she’s been super nice and helpful in all of my interactions with her.
 
+## Nicole Sullivan
+[@stubbornella](https://twitter.com/stubbornella)  
+One of my first CSS heros when I was a young front-end dev, Nicole continues to tweet quality front-end dev content and advocate for women in tech. Was also super cool and fun to hang out with when I met her IRL.
+
 ## Nikki Bucher
 [@nikki_bucher](https://twitter.com/nikki_bucher)  
 I work with Nikki, she’s awesome!
 
-## Rachel
+## Pamela Fox
+[@pamelafox](https://twitter.com/pamelafox)  
+Does really cool work on programming curriculum at Kahn Academy. Funny and engergetic personality both on and off twitter.
+
+## Pearl Chen
+[@PearlChen](https://twitter.com/PearlChen)
+Pearl is doing great work in the tech education space. Also tweets about front-end dev, women in tech and hardware hacking.
+
+## Rachel White
 [@ohhoe](https://twitter.com/ohhoe)  
 I met Rachel in a makeup/tech related Slack. She’s hilarious and always on point with her tweets.
 
@@ -85,6 +97,10 @@ I love Samantha’s way of thinking and I love how she pushes boundaries in our 
 ## Sara Chipps
 [@sarajchipps](https://twitter.com/sarajchipps)  
 Founder of [Girl Develop It](https://www.girldevelopit.com/), I can’t thank her enough for what she has done for women in this industry. A must follow.
+
+## Sara Soueidan
+[@SaraSoueidan](https://twitter.com/SaraSoueidan)  
+Sara is an incredibly knowledgeable writer and speaker on front-end topics, especially SVG.
 
 ## Sara Wachter-Boettcher
 [@saraannmarie](https://twitter.com/saraannmarie)  
@@ -126,9 +142,17 @@ I love her. I love her witchy vibe a lot but what I love even more is her import
 [@tessaharmon](https://twitter.com/tessaharmon)  
 I’ve had the pleasure of talking to Tessa online and also seeing her present. She’s a super badass that always has perfect makeup. She’s a super helpful and sweet woman who has important things to say.
 
+## Tessa Thornton
+[@tessthornton](https://twitter.com/tessthornton)  
+I've know Tessa for several years and she's cool, hilarious, and a fellow Star Trek fan. She's a super smart JS developer at Shopify and has lots of good tweets about feminism and tech.
+
 ## The Toast
 [@thetoast](https://twitter.com/thetoast)  
 Great feminist articles, love them.
+
+## Tracy Hines
+[@HackyGoLucky](https://twitter.com/HackyGoLucky)  
+Tracy is totally cool and fun to hang out with and does a ton of amazing community work, through her involvement with PDXNode and several other JS conferences.
 
 ## Val Head
 [@vlh](https://twitter.com/vlh)  
