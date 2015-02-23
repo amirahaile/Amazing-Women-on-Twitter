@@ -74,6 +74,10 @@ Ash Huang is an independent designer and storyteller (previously at Pinterest an
 [@eyescreamqueen](https://twitter.com/eyescreamqueen)  
 I know her through mutual friends, and I just love her style and voice so much.
 
+## Ashley Williams
+[@ag_dubs ](https://twitter.com/ag_dubs)  
+I only know Ashely online but I have been dying to meet her in person because she always seems to be tweeting things relevant to my interests. Talks about tech education, advocates for diversity in tech, and is pretty funnyt oo.
+
 ## Aura Seltzer
 [@auraseltzer](https://twitter.com/auraseltzer)  
 I used to work with Aura and I can’t begin to explain her level of detail. Follow her for great type resources.
@@ -90,6 +94,10 @@ I met her in Austin and then she went on to be a super badass in San Francisco. 
 [@bitchmedia](https://twitter.com/bitchmedia)  
 I love [Bitch](https://www.bitchmedia.org/). Their magazine, their podcasts, everything. Get into their content now.
 
+## Blithe Rocher
+[@Blithe](https://twitter.com/Blithe)  
+Blithe is hella smart and awesome, earning a PhD in physical chemistry before moving into development. She also helped start Rails Girls ATL.
+
 ## Brenna Heaps
 [@brennaheaps](https://twitter.com/breannaheaps)   
 I used to work very closely with Brenna and can’t say enough good things about her. She is my hero, and I’m so happy to call her a friend. She’s the best project manager I think I will ever know, and she is the most empathetic human I’ve ever met. Everyone should aspire to be like Brenna. The world would be better for it.
@@ -97,6 +105,10 @@ I used to work very closely with Brenna and can’t say enough good things about
 ## Brentine Stevens
 [@brenstevens](https://twitter.com/brenstevens)  
 One of my best friends and amazingly talented designer. She works super hard, and I love her subculture tweets the best.
+
+## Brittany Storoz
+[@brittanystoroz](https://twitter.com/brittanystoroz)  
+I met and hung out with Brittany at EmpireJS last year and she is completely hilarious both in person and on twitter.
 
 ## Bushra Mahmood
 [@goatsandbacon](https://twitter.com/goatsandbacon)  
@@ -125,6 +137,10 @@ I love her blog, and her tweets about makeup.
 ## Christy Carroll
 [@christy_carroll](https://twitter.com/christy_carroll)  
 I used to work with Christy and her talent is beyond measure. She also is in a band and does woodworking and I really can’t keep up with her badassery. She’s amazing.
+
+##CJ Silverio
+[@ceejbot](https://twitter.com/ceejbot)  
+Devops at NPM. I saw CJ give an increible talk about how she was welcomed into the Node community and how we should all do the same. She continues to inspire and advocate for positive change in our industry on twitter.
 
 ## Claudina Sarahe
 [@itsmisscs](https://twitter.com/itsmisscs)  
