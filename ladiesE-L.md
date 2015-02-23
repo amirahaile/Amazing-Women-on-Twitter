@@ -31,6 +31,10 @@ Emily is a designer producing some really interesting, funny, and thought-provok
 [@emilyawebb](https://twitter.com/emilyawebb)  
 A designer who lives in my area, her tweets are so relatable and I really appreciate her aesthetic.
 
+## Florida Elago
+[@floriidaaa](https://twitter.com/floriidaaa)  
+Totally cool Vancouver based dev with great style and a sweet personality. Had an amazing time hanging out with her at JSFest Oakland.
+
 ## Franchesca Ramsey
 [@chescaleigh](https://twitter.com/chescaleigh)  
 Her social tweets are so important, I find out about many issues (especially in the tech industry) because of her tweets. She’s amazing.
@@ -58,6 +62,11 @@ Like many ladies on this list, I met her in a makeup/tech Slack. She’s talente
 ## Heben Nigatu
 [@heavenrants](https://twitter.com/heavenrants)  
 Her perspective as a black woman is SO. IMPORTANT. I can say with utmost certainty that following her has made me a more empathetic person.
+
+## Helen Hou Sandi
+[@helenhousandi](https://twitter.com/helenhousandi)  
+Lead WordPress Developer, cool mom, hilarious tweets.
+
 
 ## Helen Holmes
 [@helenvholmes](https://twitter.com/helenvholmes)  
@@ -90,6 +99,10 @@ Jenn. Is. Amazing. I wish we had a longer crossover at our last job, because I n
 ## Jenn Turner
 [@renrutnnej](https://twitter.com/renrutnnej)  
 Jenn Turner is sweet, strong, and extremely funny. Designer/developer at &yet, she tweets about working on the web and life with her daughter (who also sounds awesome.)
+
+## Jenn Schiffer
+[@jennschiffer](https://twitter.com/jennschiffer)  
+Engineer at Bocoup, JerseyScript organizer. A great friend of mine. She's quick witten and not afraid to speak her mind. Also makes really cool pixel art, with JavaScript.
 
 ## Jennifer Robbins
 [@jenville](https://twitter.com/jenville)  
@@ -143,6 +156,10 @@ Karolina is a designer and developer, but her passion really shines through her 
 [@_kaseybon](https://twitter.com/_kaseybon)  
 Kasey is an apprentice where I work. She’s a super hard worker and I love seeing her enthusiasm for learning web development come through her tweets.
 
+## Kassandra Perch
+[@nodebotanist] (https://twitter.com/nodebotanist)  
+Engineer at Becoup, works on NodeBots and wearable tech. Amazing and inspirational. 
+
 ## Kathleen Hanna
 [@kathleenhanna](https://twitter.com/kathleenhanna)  
 AKA the founder of the Riot Grrrl movement and I love that she still actively uses Twitter. Also go watch the documentary about her, the Punk Singer, on Netflix. Now.
@@ -158,6 +175,10 @@ Omg she’s so fucking funny.
 ## Katy Decorah
 [@katydecorah](https://twitter.com/katydecorah)  
 She loves to tweet about code and donuts, what more do you need?
+
+## Kelsey Gilmore-Innis
+[@kelseyinnis](https://twitter.com/kelseyinnis)
+Totally badass babe not afraid to speak here mind. Excellent tweets about feminism and tech, and funny stuff too.
 
 ## Krystyn Heide
 [@krystynheide](https://twitter.com/krystynheide)  
@@ -179,6 +200,10 @@ I used to work with Leanne and she was my first female role model in a professio
 [@_lilchen](https://twitter.com/_lilchen)  
 I love her for being a competitive Super Smash Brothers player (I love SSBM)! I’ve seen her at conferences, and we’ve talked a lot on Twitter. Her tweets are so great, and her fashion is impeccable.
 
+##Lin Clark
+[@linclark](https://twitter.com/linclark)  
+Developer at NPM. Solid tweets about diversity in tech. Excellent dancer and karaoke singer.
+
 ## Linda Eliasen
 [@littlenono](https://twitter.com/littlenono)  
 Linda is a Designer at Dropbox. She's kind, strong, and funny as hell. She tweets about design, lettering, being a lady in tech, and butt/fart jokes.
@@ -194,6 +219,10 @@ Her tweets usually take the words right out of my mouth.
 ## Lisa Yoder
 [@_lisli](https://twitter.com/_lisli)  
 She posts such good articles and her tweets always have great content.
+
+##Lydia Katsamberis
+[@ilkats](https://twitter.com/llkats)  
+Developer at Craigslist. Met her at a conf and she was kind, caring and lots of fun to hang out with. Funny tweets!
 
 ## Lyza Danger Gardner
 [@lyzadanger](https://twitter.com/lyzadanger)  
