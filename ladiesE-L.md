@@ -6,6 +6,10 @@ Consistently hilarious and enviously talented, Eden is a musician and a develope
 [@webmeadow](https://twitter.com/webmeadow)  
 I had the pleasure of working with Eileen when she consulted several projects I was on. She is so confident and I love when I get to talk to her. Her interests are unique and I love reading her tweets about the wildlife she encounters.
 
+## Elise Wei
+[@Not_Pele](https://twitter.com/Not_Pele)  
+Full-time software engineer, full-time rock star, full-time domestic goddess, part-time everything else.
+
 ## Ellie Robinson
 [@followellie](https://twitter.com/followellie)  
 I met Ellie when she reached out to me about speaking at Future Insights Live. She’s so nice and helpful. She posts a bunch of great articles that normally don’t appear in my timeline.
@@ -13,7 +17,6 @@ I met Ellie when she reached out to me about speaking at Future Insights Live. S
 ##Erin Kissane
 [@kissane](https://twitter.com/kissane)  
 Erin is a writer, content strategist, and the editor of journalism-code community website Source. She's consistently empathetic, insightful, and witty.
-
 
 ## Elyse Holladay
 [@elyseholladay](https://twitter.com/elyseholladay)  
@@ -67,7 +70,6 @@ Her perspective as a black woman is SO. IMPORTANT. I can say with utmost certain
 [@helenhousandi](https://twitter.com/helenhousandi)  
 Lead WordPress Developer, cool mom, hilarious tweets.
 
-
 ## Helen Holmes
 [@helenvholmes](https://twitter.com/helenvholmes)  
 As well as Designing at Capital One, Helen is doing a lot of cool stuff using and learning Vim, development in XCode, and a bunch of other dev stuff. Another funny, kind, awesome woman on Twitter.
@@ -104,6 +106,10 @@ Jenn Turner is sweet, strong, and extremely funny. Designer/developer at &yet, s
 [@jennschiffer](https://twitter.com/jennschiffer)  
 Engineer at Bocoup, JerseyScript organizer. A great friend of mine. She's quick witten and not afraid to speak her mind. Also makes really cool pixel art, with JavaScript.
 
+## Jennifer Eliuk
+[@7maples](https://twitter.com/7maples)  
+Coder for Democracy Works, Inc.
+
 ## Jennifer Robbins
 [@jenville](https://twitter.com/jenville)  
 Organizer of Artifact Conference, writer of books, she’s a true gem in this industry and her tweets are important.
@@ -112,9 +118,29 @@ Organizer of Artifact Conference, writer of books, she’s a true gem in this in
 [@jennromolini](https://twitter.com/jennromolini)  
 I saw her speak on a women of the internet panel. She works for Hello Giggles and always posts great stuff.
 
+## Jennifer Smith
+[@JenniferSmithCo](https://twitter.com/JenniferSmithCo)  
+Functional programming dynamite with a Laser Beam
+
+## Jess Eldredge
+[@jessabean](https://twitter.com/jessabean)  
+Web designer @Shopify, American in Canada, sketchnoter, word nerd, wino, cat lady.
+
+## Jesse Toth
+[@jesseplusplus](https://twitter.com/jesseplusplus)  
+Engineer, rubyist, space nerd, adventurer, TDDer, music lover, aspiring human being.
+
 ## Jessica Ivins
 [@jessicaivins](https://twitter.com/jessicaivins)  
 Jessica is a UX designer, and I really appreciate the insight she brings on that. She’s also been super kind and supportive in my interactions with her.
+
+## Jessica Kerr
+[@jessitron](https://twitter.com/jessitron)  
+"Functional developer (at Outpace), speaker, mother, crazy nut."
+
+## Jessica McKellar
+[@jessicamckellar](https://twitter.com/jessicamckellar)  
+Startup founder, systems engineer, open source developer, @thePSF Director.
 
 ## Jessica Williams
 [@msjwilly](https://twitter.com/msjwilly)  
@@ -160,6 +186,10 @@ Kasey is an apprentice where I work. She’s a super hard worker and I love seei
 [@nodebotanist] (https://twitter.com/nodebotanist)  
 Engineer at Becoup, works on NodeBots and wearable tech. Amazing and inspirational. 
 
+## Kate Matsudaira
+[@katemats](https://twitter.com/katemats)  
+Founder at [*popforms](https://popforms.com/)  creator of [the Spark Notebook](http://www.thesparknotebook.com)
+
 ## Kathleen Hanna
 [@kathleenhanna](https://twitter.com/kathleenhanna)  
 AKA the founder of the Riot Grrrl movement and I love that she still actively uses Twitter. Also go watch the documentary about her, the Punk Singer, on Netflix. Now.
@@ -167,6 +197,10 @@ AKA the founder of the Riot Grrrl movement and I love that she still actively us
 ## Katie Heaney
 [@ktheaney](https://twitter.com/ktheaney)  
 Another amazing feminist writer who posts brilliant essays.
+
+## Katie Miller
+[@codemiller](https://twitter.com/codemiller)  
+Functional programmer. [@lambdaladies](https://twitter.com/lambdaladies) Co-Founder. Lindy hopper.
 
 ## Katie Notopoulos
 [@katienotopoulos](https://twitter.com/katienotopoulos)  
@@ -180,6 +214,18 @@ She loves to tweet about code and donuts, what more do you need?
 [@kelseyinnis](https://twitter.com/kelseyinnis)  
 Totally badass babe not afraid to speak here mind. Excellent tweets about feminism and tech, and funny stuff too.
 
+## Kerri Miller
+[@kerrizor](https://twitter.com/kerrizor)  
+Software Engineer, conference speaker, chef, poker player, glassworker, scooter mechanic, baseball & soccer fan, hiker.. but not in that order.
+
+## Kimberly Blessing
+[@obiwankimberly](https://twitter.com/obiwankimberly)  
+Director of webdev/tech at @thinkbrownstone.
+
+## Kimberly Bryant
+[@6Gems](https://twitter.com/6Gems)  
+Founder @BlackGirlsCode ~ White House Champion of Change ~ [2014 GOOD 100](/good.is/the100)
+
 ## Krystyn Heide
 [@krystynheide](https://twitter.com/krystynheide)  
 I’ve interacted with Krystyn a lot on Twitter and I always feel so inspired afterwards. I love everything she posts, and she’s amazingly talented as well!
@@ -188,9 +234,17 @@ I’ve interacted with Krystyn a lot on Twitter and I always feel so inspired af
 [@lara_hogan](https://twitter.com/lara_hogan)  
 I want to be Lara when I grow up. She is such a role model for young women in the tech industry and she is KILLING IT this year with her new book on performance and all of her conference talks. I can’t wait to meet her at Generate!
 
+## Laura Frank
+[@rhein_wein](https://twitter.com/rhein_wein)  
+Ruby, rails, docker, beer.
+
 ## Lauren Dorman
 [@laurendorman](https://twitter.com/laurendorman)  
 Lauren is an apprentice where I work. I love her enthusiasm, and her personality definitely shows through her tweets.
+
+## Lauren Galanter
+[@laurengalanter](https://twitter.com/laurengalanter)  
+Interwebz polymath. Full-stack UX. Ex-filmmaker. Giant nerd in a small person. Currently: UX Analyst @Phase2.
 
 ## Leanne Wagner
 [@leannemwagner](https://twitter.com/leannewagner)  
@@ -224,6 +278,10 @@ She posts such good articles and her tweets always have great content.
 [@ilkats](https://twitter.com/llkats)  
 Developer at Craigslist. Met her at a conf and she was kind, caring and lots of fun to hang out with. Funny tweets!
 
+## Lynn Root
+[@roguelynn](https://twitter.com/roguelynn)  
+@Spotify engineer, @ThePSF board member, DSF member. @PyLadiesSF founder. VM breaker, insomniac, socializer.
+ 
 ## Lyza Danger Gardner
 [@lyzadanger](https://twitter.com/lyzadanger)  
 I don’t see enough representation for women founders, and Lyza is such an inspiration.
