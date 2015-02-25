@@ -2,6 +2,10 @@
 [@abbyfretz](https://twitter.com/abbyfretz)  
 I used to work with Abby and her empathy is beyond measure. She is a free spirit and I love seeing what she’s up to.
 
+## Aisha Blake
+[@AishaBlake](https://twitter.com/AishaBlake)  
+Operations Manager at Grand Circus. Freelance web developer and teacher engaged in the Detroit community and continuing to find new ways to further my own education.
+
 ## Alice Lee
 [@byalicelee](https://twitter.com/byalicelee)  
 Alice Lee is a hard-to-quanitify designer and illustrator who has worked with Dropbox, Foursquare, Path, and more. She puts tons of heart and life into her work and never hesitates to help beginners.
@@ -62,6 +66,10 @@ One of my favorite female developers, period. I admire her so much, and her twee
 [@doorsixteen](https://twitter.com/doorsixteen)  
 Oh, god. I love her blog. I’ve been following her for years, but I can’t get enough. Great designer, great inspiration, great everything.
 
+## Anna Pawlicka
+[@AnnaPawlicka](https://twitter.com/AnnaPawlicka)  
+Programmer. Hiker. Cook. Always looking for interesting problems to solve.
+
 ## Ari Stiles
 [@ari4nne](https://twitter.com/ari4nne)  
 Ari is incredible. I’ve had the pleasure of seeing her many times in Austin and also speaking at one of her conferences. She’s one of my heros in this industry.
@@ -110,6 +118,10 @@ One of my best friends and amazingly talented designer. She works super hard, an
 [@brittanystoroz](https://twitter.com/brittanystoroz)  
 I met and hung out with Brittany at EmpireJS last year and she is completely hilarious both in person and on twitter.
 
+## Buffy Miller
+[@buffym](https://twitter.com/buffym)  
+CTO of @imagerelay, generally pretty happy, aspiring snowboarder, knitter, drinker of much coffee
+
 ## Bushra Mahmood
 [@goatsandbacon](https://twitter.com/goatsandbacon)  
 Every time I’ve ever talked to Bushra in person, her passion can be felt immediately. She posts super great designer/illustrator content and she’s very helpful.
@@ -138,17 +150,25 @@ Cecy organizes a bunch of stuff in Austin, and is always on top of it. I love wh
 [@chelsea](https://twitter.com/chelsea)  
 I love her blog, and her tweets about makeup.
 
+## Chen Blume
+[@chennech](https://twitter.com/chennech)  
+Designer founder of @specctr @blumestudio
+
 ## Christy Carroll
 [@christy_carroll](https://twitter.com/christy_carroll)  
 I used to work with Christy and her talent is beyond measure. She also is in a band and does woodworking and I really can’t keep up with her badassery. She’s amazing.
 
-##CJ Silverio
+## CJ Silverio
 [@ceejbot](https://twitter.com/ceejbot)  
 Devops at NPM. I saw CJ give an increible talk about how she was welcomed into the Node community and how we should all do the same. She continues to inspire and advocate for positive change in our industry on twitter.
 
 ## Claudina Sarahe
 [@itsmisscs](https://twitter.com/itsmisscs)  
 Claudina is one of the most humble, passionate, and fiery people I ([@_dte](https://twitter.com/_dte)) have ever met. She tweets about tech, travel, and social justice.
+
+## Coraline Ada Ehmke
+[@CoralineAda](https://twitter.com/CoralineAda)  
+Intersectional technologist. Transgender feminist. Speaker and mentor. Ruby Rogues panelist.
 
 ## Corinne Warnshuis
 [@corinnepw](https://twitter.com/corinnepw)  
@@ -162,9 +182,17 @@ I listen to her podcast, the Read, every week. She’s hilarious and honest and 
 [@danaleeee](https://twitter.com/danaleeee)  
 A talented designer that I used to work with. She has such personality and talent.
 
+## Danese Cooper
+[@DivaDanese](https://twitter.com/DivaDanese)  
+Distinguished Member of Technical Staff-Open Source at PayPal
+
 ## Danielle Bardgette
 [@danibardgette](https://twitter.com/danibardgette)  
 I met Danielle through several [Girl Develop It](http://www.girldevelopit.com) courses that she was TAing for. She shares important tech-related content and I love that she’s involved in GDI.
+
+## Danielle Sucher
+[@DanielleSucher](https://twitter.com/DanielleSucher)  
+Hacker (@stripe), artist, former attorney, beekeeper. Superpowers include creating beautiful things, getting to the point, and bringing crazy ideas into reality
 
 ## Dee Gill
 [@mdeegill](https://twitter.com/mdeegill)   
@@ -173,6 +201,10 @@ OMG Dee is such an inspiration. She got a job as an accountant and then decided 
 ## Dee Kapila
 [@deekapila](https://twitter.com/deekapila)  
 Dee works for [Skillcrush](https://skillcrush.com) which helps teach women design and development. She’s so passionate about getting women into this industry and she always posts great articles.
+
+## Delyn Simons
+[@delynator](https://twitter.com/delynator)  
+Working directly with API developers building web and mobile applications for 9 years.
 
 ## Dianna McDougall
 [@DiannaMcD](https://twitter.com/DiannaMcD)  
