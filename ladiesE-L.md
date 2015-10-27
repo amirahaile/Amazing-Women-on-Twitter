@@ -174,8 +174,8 @@ I want to be her friend because her tweets are everything I want to talk about.
 [@julesdeedub](https://twitter.com/julesdeedub)  
 I used to work with Julie, and she’s an incredible mom and super hard worker. Also one of the funniest women I know.
 
-## Julie Zhuo  
-[@joulee](https://twitter.com/joulee)
+## Julie Zhuo
+[@joulee](https://twitter.com/joulee)  
 Product design director at Facebook who has written many articles about design and other topics. She communicates really well with sketches.
 
 ## Karen McGrane
