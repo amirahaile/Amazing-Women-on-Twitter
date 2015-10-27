@@ -14,6 +14,10 @@ Full-time software engineer, full-time rock star, full-time domestic goddess, pa
 [@followellie](https://twitter.com/followellie)  
 I met Ellie when she reached out to me about speaking at Future Insights Live. She’s so nice and helpful. She posts a bunch of great articles that normally don’t appear in my timeline.
 
+## Erica Baker
+[@EricaJoy](https://twitter.com/EricaJoy)  
+Erica is an engineer at Slack who tweets and writes about important topics like [intersectionality and diversity in tech](https://medium.com/this-is-hard/ffffff-diversity-1bd2b3421e8a#.oyr4z8nas).
+
 ##Erin Kissane
 [@kissane](https://twitter.com/kissane)  
 Erin is a writer, content strategist, and the editor of journalism-code community website Source. She's consistently empathetic, insightful, and witty.
@@ -76,7 +80,7 @@ As well as Designing at Capital One, Helen is doing a lot of cool stuff using an
 
 ## Jackie Balzer
 [@jackiebackwards](https://twitter.com/jackiebackwards)  
-Jackie ts Behance's front-end lead, and she really knows her stuff. Friendly and funny with a penchant for tweeting about web development and its perils.
+Jackie is Behance's front-end lead, and she really knows her stuff. Friendly and funny with a penchant for tweeting about web development and its perils.
 
 ## Jaimee Newberry
 [@jaimeejaimee](https://twitter.com/jaimeejaimee)  
@@ -169,6 +173,10 @@ I want to be her friend because her tweets are everything I want to talk about.
 ## Julie Woldin
 [@julesdeedub](https://twitter.com/julesdeedub)  
 I used to work with Julie, and she’s an incredible mom and super hard worker. Also one of the funniest women I know.
+
+## Julie Zhuo
+[@joulee](https://twitter.com/joulee)  
+Product design director at Facebook who has written many articles about design and other topics. She communicates really well with sketches.
 
 ## Karen McGrane
 [@karenmcgrane](https://twitter.com/karenmcgrane)  
