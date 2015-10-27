@@ -10,6 +10,10 @@ Operations Manager at Grand Circus. Freelance web developer and teacher engaged 
 [@byalicelee](https://twitter.com/byalicelee)  
 Alice Lee is a hard-to-quanitify designer and illustrator who has worked with Dropbox, Foursquare, Path, and more. She puts tons of heart and life into her work and never hesitates to help beginners.
 
+## Alicia Liu
+[@aliciatweet](https://twitter.com/aliciatweet)
+Alicia is an engineer and "recovering founder." She has written several really good articles on impostor syndrome.
+
 ## Alicia Sedlock
 [@aliciability](https://twitter.com/aliciability)  
 I met her at CSS Dev Conf last year where we both presented. She is kicking ass at development and I love all of her social issues she brings up regarding tech. She also focuses on accessibility, which we all could use a little more insight on.
@@ -49,6 +53,10 @@ Amira is amazing for volunteering to transfer this list to GitHub. I can't thank
 ## Amy Schweiss
 [@aaschw](https://twitter.com/aaschw)  
 Amy is one of my friends from Austin and she is so fucking funny. Her tweets are spot on and she won’t be afraid to call you out.
+
+## Amy Wibowo
+[@sailorhg](https://twitter.com/sailorhg)
+The inspiring creator of [BubbleSort Zines](http://bubblesort-zines.myshopify.com/), a series of zines about computer science and programming written for people who think computer science isn't for them.
 
 ## Anita Sarkeesian
 [@femfreq](https://twitter.com/femfreq)  
