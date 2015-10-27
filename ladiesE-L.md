@@ -15,7 +15,7 @@ Full-time software engineer, full-time rock star, full-time domestic goddess, pa
 I met Ellie when she reached out to me about speaking at Future Insights Live. She’s so nice and helpful. She posts a bunch of great articles that normally don’t appear in my timeline.
 
 ## Erica Baker
-[@EricaJoy](https://twitter.com/EricaJoy)
+[@EricaJoy](https://twitter.com/EricaJoy)  
 Erica is an engineer at Slack who tweets and writes about important topics like [intersectionality and diversity in tech](https://medium.com/this-is-hard/ffffff-diversity-1bd2b3421e8a#.oyr4z8nas).
 
 ##Erin Kissane
@@ -174,7 +174,7 @@ I want to be her friend because her tweets are everything I want to talk about.
 [@julesdeedub](https://twitter.com/julesdeedub)  
 I used to work with Julie, and she’s an incredible mom and super hard worker. Also one of the funniest women I know.
 
-## Julie Zhuo
+## Julie Zhuo  
 [@joulee](https://twitter.com/joulee)
 Product design director at Facebook who has written many articles about design and other topics. She communicates really well with sketches.
 
