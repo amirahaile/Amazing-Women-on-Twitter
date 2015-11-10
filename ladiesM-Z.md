@@ -82,6 +82,10 @@ Front-end Developer, UX Designer, and Tech Leader. I empower people through tech
 [@pamelafox](https://twitter.com/pamelafox)  
 Does really cool work on programming curriculum at Kahn Academy. Funny and engergetic personality both on and off Twitter.
 
+## Paula Paul
+[@paulapaultweets](https://twitter.com/paulapaultweets)  
+Tweets for diversity in tech, punchcard selfies, author and speaker: 'Beyond Brogramming...' 
+
 ## Pearl Chen
 [@PearlChen](https://twitter.com/PearlChen)
 Pearl is doing great work in the tech education space. Also tweets about front-end dev, women in tech and hardware hacking.
