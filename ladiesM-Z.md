@@ -146,6 +146,10 @@ Sara is an incredibly knowledgeable writer and speaker on front-end topics, espe
 [@saraannmarie](https://twitter.com/saraannmarie)  
 SARA WB IS AMAZING. Everything she writes, shares, tweets, does is so true that it hurts. I want to RT everything, and it’s extremely important that you follow her and listen.
 
+## Sarah Drasner
+[@sarah_edo](https://twitter.com/sarah_edo)  
+Sarah is an award-winning Speaker, Principal Lead of Emerging Markets, Cloud Advocates at Microsoft, Staff Writer at CSS-Tricks and the author of SVG Animations from O’Reilly and has given Frontend Masters workshops on Vue.js and Advanced SVG Animations. And her tweets are super fun and motivating.
+
 ## Sarah Gray
 [@sarah_eliz_gray](https://twitter.com/sarah_eliz_gray)  
 Programmer, reader, writer, teacher, theater nerd, and explorer.
